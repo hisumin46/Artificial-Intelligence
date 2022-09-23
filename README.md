@@ -24,5 +24,7 @@
 
 
 ### Deep Learning
+2022 AWS Deep Racer 로그 분석
+[딥레이서 강화학습](%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 
 
